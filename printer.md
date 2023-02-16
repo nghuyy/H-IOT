@@ -5,6 +5,6 @@ USB Connector:
 
 [Xprinter N160ii](https://vinhnguyen.vn/may-in-hoa-don/may-in-hoa-don-xprinter-n160ii.html) (Hỗ trợ Lan)
 
-[Xiaomi Sunny V1S, V2](https://vinhnguyen.vn/may-ban-hang-sunmi.html)
+[Xiaomi Sunmi V1S, V2](https://vinhnguyen.vn/may-ban-hang-sunmi.html)
 
 Và tất cả các máy in hỗ trợ chuẩn ESC/POS qua mạng LAN tương thích với phần mềm khác như OCHA ...
